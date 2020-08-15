@@ -1,6 +1,6 @@
 '''
 Problem Statement : Lucky Four
-Link : httpswww.codechef.comproblemsLUCKFOUR
+Link : https://www.codechef.com/problems/LUCKFOUR
 score : accepted
 '''
 
